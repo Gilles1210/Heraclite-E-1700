@@ -1,1 +1,1 @@
-<model-viewer src="Heraclite-E-1700.glb" ar ar-modes="webxr scene-viewer quick-look" camera-controls tone-mapping="neutral" poster="poster.webp" shadow-intensity="2" exposure="1" shadow-softness="1" camera-orbit="717.5deg 71.77deg 3.485m" field-of-view="22.98deg"> </model-viewer>
+<model-viewer src="Heraclite-E-1700.glb" ar ar-modes="webxr scene-viewer quick-look" camera-controls tone-mapping="neutral" poster="poster.webp" shadow-intensity="2" exposure="0.8" environment-image="legacy"> </model-viewer>
